@@ -1,4 +1,4 @@
-# Lankehouse-BikeStore
+# Projeto Lankehouse-BikeStore
 
 # Data Lakehouse BikeStore: Modernização de Dados SQL Server
 
